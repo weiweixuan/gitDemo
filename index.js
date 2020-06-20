@@ -1,4 +1,6 @@
 let temp = "主分支的index.js";
 
-// 下面我添加了一行新内容 text2 ==> temp2
-let newText = "append new File in temp2";
+let temp2UpdateText = "我是2号分支的内容 ， in temp2  222 ";
+
+// temp2 ---------2
+let file = "temp2";
